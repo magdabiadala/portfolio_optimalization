@@ -1,4 +1,4 @@
-name,mean,std_dev,weights
+name,exp_ret,std_dev,weights
 SPY,-0.00033,0.05465,0.125
 MDY,0.00235,0.06544,0.125
 SLY,0.00228,0.07204,0.125
